@@ -1,0 +1,6 @@
+
+# don't check in static assets
+*.js
+*.css
+# Ay, wasmatter with you?
+*.wasm
